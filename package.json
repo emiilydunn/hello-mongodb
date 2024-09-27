@@ -1,0 +1,12 @@
+{
+  "name": "hello-mongodb",
+  "version": "1.0.0",
+  "description": "hello-mongodb is Lab 2 for INET2005.",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon connect.js"
+  },
+  "author": "Emily Dunn",
+  "license": "ISC"
+}
