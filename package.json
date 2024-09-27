@@ -8,5 +8,10 @@
     "start": "nodemon connect.js"
   },
   "author": "Emily Dunn",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "mongodb": "^6.9.0"
+  }
 }
